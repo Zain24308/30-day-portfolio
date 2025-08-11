@@ -1,11 +1,10 @@
 # 30-Day Portfolio  
 *Python Data Analyst | Turning messy spreadsheets into dashboards in 48 h*
 
-👋 Hi, I’m **[Your Name]**.  
-Over the next 30 days I’m publishing **one mini-project every week** to prove I can deliver clean data, clear insights, and working dashboards—fast.
+👋 Hi, I’m Muhammad Zain Ul Abidien.  
+Over the next 30 days I’m publishing one mini-project every week to prove I can deliver clean data, clear insights, and working dashboards—fast.
 
-📫 Contact me → yourEmail@domain.com
-
+📫 Contact me → zainnawaz512000@gmail.com
 ---
 
 ## 📊 Projects
